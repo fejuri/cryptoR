@@ -1,2 +1,2 @@
-# crypto_dash
-ongoing project to visualize a crypto portfolio 
+# cryptoR
+ongoing project to visualize a crypto portfolio
